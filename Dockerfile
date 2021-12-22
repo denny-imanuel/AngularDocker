@@ -6,5 +6,6 @@ WORKDIR /app
 ENV PATH=${PATH}:/app
 COPY . .
 # build and run
+EXPOSE 4200
 RUN npm install
 CMD npm run start
