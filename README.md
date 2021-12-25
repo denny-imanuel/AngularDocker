@@ -1,6 +1,6 @@
 # Angular Docker
 
-This project shows how to dockerize web application build using Angular CLI application.
+This project shows how to dockerize web application build using Angular web development framework for Java Script programming language.
 
 ## Requirements
 
